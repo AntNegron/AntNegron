@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Anthony Negron | Security+ Certified Analyst 🛡️
+I am a Cybersecurity professional in training with a background in operational leadership and risk mitigation. Currently, I am focused on Detection Engineering, Cloud Security (AWS/Azure), and Incident Response.
 
-<!--
-**AntNegron/AntNegron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technical Arsenal
+Defense: Wazuh SIEM, Splunk, Microsoft Sentinel, Snort/pfSense.
+Frameworks: MITRE ATT&CK, NIST CSF, NIST 800-53.
+Cloud: AWS (IAM, CloudWatch, GuardDuty), Azure AD (Entra ID).
+Core Skills: Log Correlation, Alert Triage, Vulnerability Management, Threat Intelligence (OSINT).
 
-Here are some ideas to get you started:
+🚀 Featured Projects
+Enterprise SIEM Deployment: Built a centralized Wazuh environment monitoring a multi-VM Active Directory lab.
+AWS Incident Simulation: Investigated multi-stage cloud intrusions involving credential theft and unauthorized provisioning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current Goals
+Pursuing a B.S. in Cybersecurity to leverage automation in defense.
+Developing fluency in Japanese (Targeting N3) for global security operations.
