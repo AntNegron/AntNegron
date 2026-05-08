@@ -1,4 +1,4 @@
-#Hi, I'm Anthony Negron | Security+ Certified Analyst 🛡️
+# Hi, I'm Anthony Negron | Security+ Certified Analyst 🛡️
 I am a Cybersecurity professional in training with a background in operational leadership and risk mitigation. Currently, I am focused on Detection Engineering, Cloud Security (AWS/Azure), and Incident Response.
 
 🛠️ Technical Arsenal
