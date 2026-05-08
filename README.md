@@ -12,5 +12,5 @@ Enterprise SIEM Deployment: Built a centralized Wazuh environment monitoring a m
 AWS Incident Simulation: Investigated multi-stage cloud intrusions involving credential theft and unauthorized provisioning.
 
 📈 Current Goals
-Pursuing a B.S. in Cybersecurity to leverage automation in defense.
-Developing fluency in Japanese (Targeting N3) for global security operations.
+*Pursuing a B.S. in Cybersecurity to leverage automation in defense.
+*Developing fluency in Japanese (Targeting N3) for global security operations.
